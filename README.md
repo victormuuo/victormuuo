@@ -1,3 +1,5 @@
+![Alt Text]([https://your-image-link.com](https://unsplash.com/photos/turned-on-black-and-grey-laptop-computer-mcSDtbWXUZU))
+
 <h1 align="center">Hi 👋, I'm Victor Muuo</h1>
 <h3 align="center">A passionate Full-Stack Data Scientist from Kenya</h3>
 
