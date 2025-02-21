@@ -1,45 +1,27 @@
-<h1 align="center">Hi, I'm Victor Muuo! 👋</h1>
+<h1 align="center">Hi 👋, I'm Victor Muuo</h1>
+<h3 align="center">A passionate Full-Stack Data Scientist from Kenya</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/your-banner.png" width="80%">
+- 🔭 I’m currently working on **SVM, Neural Networks & PCA**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **AI & ML projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/victormuuo](https://github.com/victormuuo)
+
+- 💬 Ask me about **python, r, sas, spss, tableau, Excel**
+
+- 📫 How to reach me **victormuuo2001gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/victor-muuo-](www.linkedin.com/in/victor-muuo-)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/victor-muuo-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-muuo-" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/victormuuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/victormuuo" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61556226861518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556226861518" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_victor_muuo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_victor_muuo/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">🚀 Full-Stack Data Scientist | AI & ML Enthusiast | Data-Driven Storyteller</h3>
-
----
-
-### 🛠 **Tech Stack & Skills**
-🔹 Programming: Python, R, Stata, SAS, SPSS  
-🔹 Data Visualization: Tableau, Power BI, Matplotlib, Seaborn  
-🔹 Machine Learning: Scikit-Learn, TensorFlow, PyTorch  
-🔹 Data Engineering: SQL, Pandas, Spark  
-🔹 Cloud & Deployment: AWS, GCP, Flask, FastAPI  
-🔹 Statistics & Research: Experimental Design, A/B Testing  
-
----
-
-### 📊 **My GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" width="48%">
-</p>
-
----
-
-### 🔥 **Projects**
-📌 [Customer Churn Prediction](https://github.com/yourgithubusername/customer-churn) - Machine learning model to predict customer retention.  
-📌 [Stock Price Forecasting](https://github.com/yourgithubusername/stock-prediction) - Time series forecasting using LSTMs.  
-📌 [Automated Web Scraper](https://github.com/yourgithubusername/web-scraper) - Scraping data for insights.  
-
----
-
-### 📬 **Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-muuo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/yourgithubusername">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
